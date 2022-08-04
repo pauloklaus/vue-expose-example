@@ -52,7 +52,7 @@ Source: [Vue Mastery Blog](https://www.vuemastery.com/blog/understanding-vue-3-e
 npm install
 ```
 
-Or if you have in a linux environment with docker:
+Or if you are in a linux environment with docker:
 
 ```sh
 make run
